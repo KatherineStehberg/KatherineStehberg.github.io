@@ -29,8 +29,7 @@ Puedes visitar mi portafolio en línea a través de GitHub Pages: [https://kathe
 
 Si deseas ponerte en contacto conmigo para discutir posibles colaboraciones o proyectos, puedes encontrarme en:
 
-- **Correo Electrónico**: [tu_correo@example.com](mailto:tu_correo@example.com)
-- **LinkedIn**: [linkedin.com/in/tu_perfil](https://linkedin.com/in/tu_perfil)
-- **Twitter**: [twitter.com/tu_usuario](https://twitter.com/tu_usuario)
+- **Correo Electrónico**: [kstehberg@gmail.com](mailto:kstehberg@gmail.com)
+- **LinkedIn**: [[linkedin.com/in/katherinestehberg](https://www.linkedin.com/in/katherinestehberg/)]
 
 ¡Gracias por visitar mi portafolio!
